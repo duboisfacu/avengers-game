@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="README.resources/avengers-game">
+  <a href="https://github.com/duboisfacu/avengers-game">
   <img height=250px src="README.resources/avengersgame.png"/>
   </a>
 </p>
